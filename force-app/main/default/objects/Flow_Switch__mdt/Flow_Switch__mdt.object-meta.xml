@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>Control Center to On or Off Record Triggered Flows.
+Record marked Active controls the flows.
+Ensure only one record is marked as Active.</description>
+    <label>Flow Switch</label>
+    <pluralLabel>Flow Switches</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
